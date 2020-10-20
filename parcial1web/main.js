@@ -1,0 +1,1 @@
+alert('PAGINA SOBRE EL COVID 19');

@@ -1,0 +1,11 @@
+body{
+
+    background: black;
+
+}
+
+.navegacion{
+    width: 1000px;
+    margin: 30px auto;
+    background: rgb(126, 121, 121);
+}
